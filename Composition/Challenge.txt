@@ -1,0 +1,2 @@
+To Create Five Classes namely Bedroom , Wall , Ceiling , Bed and Lamp , 
+and Implement Composition technique in JAVA .
