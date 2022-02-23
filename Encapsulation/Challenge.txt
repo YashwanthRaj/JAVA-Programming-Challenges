@@ -1,0 +1,1 @@
+This is the Solution for Coding Exercise 38 Encapsulation . Here we will create one class and name it Printer . This class willl have two member Variables of type int and a variable of type boolean . we are going to study the Applications of Encapsulation Method .
