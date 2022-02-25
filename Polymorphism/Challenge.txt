@@ -1,0 +1,1 @@
+This is the Solution for Coding Exercise 39 , where we demonstrate concept of Polymorphism . We create 4 class , where Car is Main class and Mitsubishi , Holden , Ford Inherit from Car main Class . 
